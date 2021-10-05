@@ -65,6 +65,12 @@ For training on OASIS dataset, please change the `--dataroot` argument to `OASIS
 python train.py --exp <NAME OF THE EXPERIMENT> --dataset_name CANDI_generated --dataset_path <PATH TO GENERATED DATASET>
 ```
 
+### Schematic description of the training phase
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href='OURS/pipeline_v2-1.png'><img width="%100" height="%100" src='OURS/pipeline_v2-1.png' style="max-width:100%;"></a>
+</p>
+
 ## Evaluation Script
 
 All evaluation scripts used to generate plots and compute dice score are included in the folder evaluations. To run a particular evaluation, run the following command provinding corresponding `opt` from the file `run_evaluations.py`:  
