@@ -1,4 +1,7 @@
 # Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation
+
+This repository contains the Pytorch implementation of the proposed method _Self-Supervised Generative Style Transfer for One-Shot Medical ImageSegmentation_ , which has been recently accepted at WACV 2022.
+
 ## Dependencies
 
 We prefer to have a separate [anaconda environment](https://www.anaconda.com/) and the following packages to be installed.
