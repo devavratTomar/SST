@@ -1,4 +1,4 @@
-# Self-Supervised Generative Style Transfer for One-Shot Medical ImageSegmentation
+# Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation
 ## Dependencies
 
 We prefer to have a separate [anaconda environment](https://www.anaconda.com/) and the following packages to be installed.
