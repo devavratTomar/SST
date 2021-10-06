@@ -79,6 +79,23 @@ All evaluation scripts used to generate plots and compute dice score are include
 ## Pre-trained Models
 All pre trained models and datasets are included as an anonymized links in the Supplementary Material. Please unzip the trained models inside the directory `submission_id_675/code/OURS`.
 
+____
+## Citation
+You can find the Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation paper at http://arxiv.org/abs/2110.02117
+
+If you find this work useful, please cite the paper:
+
+```
+@misc{tomar2021selfsupervised,
+    title={Self-Supervised Generative Style Transfer for One-Shot Medical Image Segmentation},
+    author={Devavrat Tomar and Behzad Bozorgtabar and Manana Lortkipanidze and Guillaume Vray and Mohammad Saeed Rad and Jean-Philippe Thiran},
+    year={2021},
+    eprint={2110.02117},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+____
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
