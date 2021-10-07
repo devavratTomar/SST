@@ -77,7 +77,7 @@ All evaluation scripts used to generate plots and compute dice score are include
 ```python run_evaluations.py <opt>```
 
 ## Pre-trained Models
-All pre trained models and datasets are included as an anonymized links in the Supplementary Material. Please unzip the trained models inside the directory `submission_id_675/code/OURS`.
+All pre trained models and datasets can be obtained from [here](https://drive.google.com/drive/folders/1yROhDxupFwICod-ImdG2FbGcLIEY8oUV?usp=sharing). Please unzip the trained models inside the directory `submission_id_675/code/OURS`.
 
 ____
 ## Citation
